@@ -126,3 +126,19 @@ Thanks to the following developers who have contributed to ScriptCat. ScriptCat 
 This project is open-sourced under the [GPLv3](./LICENSE) license. Please comply with the relevant license terms.
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fscriptscat%2Fscriptcat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fscriptscat%2Fscriptcat?ref=badge_large)
+https://app.fossa.com/api/projects/git%2Bgithub.com%2Fscriptscat%2Fscriptcat.svg?type=shield&issueType=license
+// ==UserScript==
+// @name         Idea Collector for Memory Box
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Collect ideas for daily content
+// @author       Gemini Helper
+// @match        *://*/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    console.log("Automation for Automatic Creations is running...");
+    // http://tampermonkey.net/ automation logic
+})();
